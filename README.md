@@ -10,7 +10,7 @@ ________________________________________________________________________________
 FIRMWARE_VERSION "Wuxn_Marlin_BETA_0429"
 
 *** REQUIRES INSTALLATION OF NEW TFT BITS found on "Wuxn_WXR_TFT_Binaries" Github Page ***
-*** https://github.com/wuxn3d/Wuxn_WXR_Marlin_Firmware/releases/tag/BETA_0429***
+>https://github.com/wuxn3d/Wuxn_WXR_TFT_Binaries
 
 *** Updates ***
 1. Filament runout and filament change menus have been improved.
