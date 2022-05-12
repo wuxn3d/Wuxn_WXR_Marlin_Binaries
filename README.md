@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 # Wuxn_WXR_Marlin_Binaries
 
-This repository contains the binaries and download instructions of the firmware running on the Wuxn WXR TFT mainboard.
+This repository contains the binaries and download instructions of the firmware running on the Wuxn WXR mainboard.
 The latest Marlin firmware drivers can be downloaded from our website www.wuxn3d.com
 ___________________________________________________________________________________________________________________________________________________________
 
